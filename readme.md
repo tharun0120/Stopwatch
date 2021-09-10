@@ -1,6 +1,6 @@
 # ⏱️ Stopwatch using vanila Javascript ?
 
-- **I mean sure why not?**
+**_I mean sure why not?_**
 
 ## <a href="https://tharun0120.github.io/Stopwatch/">Have a look!</a>
 
