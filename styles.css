@@ -1,0 +1,49 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  letter-spacing: 2.5px;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 100px;
+  color: #66fcf1;
+  font-size: 10vw;
+}
+
+p {
+  margin: 0;
+  padding: 15px;
+  font-size: 100px;
+  color: white;
+  cursor: default;
+}
+
+button {
+  background-color: inherit;
+  color: white;
+  border: none;
+  padding: 50px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+button:hover {
+  color: #66fcf1;
+}
+
+h2 {
+  color: white;
+}
+
+h2 span {
+  color: #66fcf1;
+}
