@@ -1,6 +1,6 @@
 # ⏱️ Stopwatch using vanila Javascript ?
 
-## _I mean sure why not?_
+<p> _I mean sure why not?_ </p>
 
 ## <a href="">Have a look!</a>
 
