@@ -1,8 +1,8 @@
 # ⏱️ Stopwatch using vanila Javascript ?
 
-<p> _I mean sure why not?_ </p>
+# _I mean sure why not?_
 
-## <a href="">Have a look!</a>
+## <a href="https://tharun0120.github.io/Stopwatch/">Have a look!</a>
 
 <p align="center">
   <img src="https://github.com/tharun0120/tharun0120/blob/main/logos/html5.svg" width="65" height="65"/>
